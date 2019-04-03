@@ -1,0 +1,24 @@
+
+Name of QuantLet : IFEmoving_window
+
+Published in: An Empirical Application of Interactive Fixed Effect Model on Asset Pricing
+
+Description: Estimate the linear coefficient and compute their test statistics of the five factors with a moving window of the size 10, 126, 400 trading days.
+
+Keywords: stock return prediction, fama-French Model, panel data, Asset Pricing, Interactive fixed effect modle, semi-parametric factor models
+
+Author: Bingling Wang
+
+See also:
+- IFEdata
+- IFEsimulation
+- IFEestimation
+
+
+Submitted:  03.04.2019
+
+Input:  
+- panel stock daily data in S&P 500 index from 2018-07-01 to 2018-10-08 separated in moving windows of different sizes
+
+Output:
+- predictions of stock returns in the next window

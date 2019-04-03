@@ -1,0 +1,25 @@
+
+Name of QuantLet : IFE_estimation
+
+Published in: An Empirical Application of Interactive Fixed Effect Model on Asset Pricing
+
+Description: evaluate our estimation's performance via a simulation study.
+The simulation study can be divided into three steps: i) Simulate the variables and coefficients. ii) Estimate the parameter and factor. iii) Compare the estimated results with the simulation setups.
+
+Keywords: stock return prediction, fama-French Model, panel data, Asset Pricing, Interactive fixed effect modle, semi-parametric factor models
+
+Author: Bingling Wang
+
+See also:
+- IFEdata
+- IFEestimation
+- IFEmoving_window
+
+
+Submitted:  03.04.2019
+
+Input:  
+- simulated data
+
+Output:
+- predictions of simulated data

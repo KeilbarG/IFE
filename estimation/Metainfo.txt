@@ -1,0 +1,24 @@
+
+Name of QuantLet : IFE_estimation
+
+Published in: An Empirical Application of Interactive Fixed Effect Model on Asset Pricing
+
+Description: Estimated results of additive functions of the first and last 126 trading days. The solid, dashed and dotted lines are related to the first, second and third factors. Prediction results of one sample of the first window of 126 trading days
+
+Keywords: stock return prediction, fama-French Model, panel data, Asset Pricing, Interactive fixed effect modle, semi-parametric factor models
+
+Author: Bingling Wang
+
+See also:
+- IFEdata
+- IFEsimulation
+- IFEmoving_window
+
+
+Submitted:  03.04.2019
+
+Input:  
+- panel stock daily data in S&P 500 index from 2018-07-01 to 2018-10-08 separated in moving windows of 126 trading days
+
+Output:
+- predictions of stock returns in the next window
